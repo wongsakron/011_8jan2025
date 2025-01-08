@@ -13,8 +13,10 @@
                 <img src="images/map.gif">
             </td>
             <td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php">หน้asadssadsdาแรก</li>
-				<li><a href="room.php">ห้องพัก&ราคา</li>
+ branch2
+				<li><a href="home.php">หsadน้asadsdาแรก</li>
+				<li><a href="room.php">ห้ฟหดฟดองพัก&ราคา</li>
+
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>asfsaf
 				</ul><p>
